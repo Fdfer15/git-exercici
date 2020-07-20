@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 canvio en master y hago comming y push
+=======
+TEXTO MODIFICADO DESDE BRANCH1
+>>>>>>> branch1
